@@ -16,7 +16,7 @@ You can see my 15min attempt.
 Bring it back a bit and focus on a smaller thing. We start introducing variables and functions.
 
 ## tree3.py
-Look at two options for how to draw a single branch and implement one.
+From the example function of how to draw a stump can you write a function to draw a tree branch
 
 ## tree4.py
 Put it in a loop and figure out how to end it.
